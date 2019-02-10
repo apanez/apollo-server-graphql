@@ -1,0 +1,25 @@
+{
+  "name": "apollo-server-graphql",
+  "version": "1.0.0",
+  "description": "Apollo server for query graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apanez/apollo-server-graphql.git"
+  },
+  "author": "Angelo Panez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apanez/apollo-server-graphql/issues"
+  },
+  "homepage": "https://github.com/apanez/apollo-server-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^2.4.0",
+    "apollo-server-express": "^2.4.0",
+    "express": "^4.16.4",
+    "graphql": "^14.1.1"
+  }
+}
